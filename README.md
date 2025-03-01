@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Privacy Policy for Vinnuskýrsla</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-      line-height: 1.6;
-    }
-    h1, h2, h3 {
-      color: #333;
-    }
-  </style>
-</head>
-<body>
   <h1>Privacy Policy for Vinnuskýrsla</h1>
   <p><em>Last Updated: 01.03.25</em></p>
   
