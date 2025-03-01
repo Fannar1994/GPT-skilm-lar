@@ -19,7 +19,7 @@ Skilmálar fyrir GPT
 </head>
 <body>
   <h1>Privacy Policy for [Vinnuskýrsla]</h1>
-  <p><em>Last Updated: <div Timestamp=""></div></em></p>
+  <p><em>Last Updated: <div 01.03.25=""></div></em></p>
   <h2>1. Introduction</h2>
   <p>Welcome to [Vinnuskýrsla]]. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your personal information when you interact with our custom GPT.</p>
   <h2>2. Information We Collect</h2>
