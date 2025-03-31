@@ -1,4 +1,4 @@
-  <h1>Privacy Policy for Vinnuskýrsla</h1>
+  <h1>Privacy Policy</h1>
   <p><em>Last Updated: 01.03.25</em></p>
   
   <h2>1. Introduction</h2>
